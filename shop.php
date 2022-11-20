@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html>
+<html dir="ltr">
 <head>
   <title>shop page</title>
 </head>
